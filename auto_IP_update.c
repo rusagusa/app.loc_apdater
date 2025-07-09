@@ -5,7 +5,7 @@
 #pragma comment(lib, "ws2_32.lib")
 
 #define HOSTS_PATH "C:\\Windows\\System32\\drivers\\etc\\hosts"
-#define DOMAIN_NAME "chat.loc"
+#define DOMAIN_NAME "app.loc"
 #define IP_BUFFER_SIZE 46
 #define LINE_BUFFER_SIZE 512
 
